@@ -6,6 +6,6 @@ The source code is available at: https://github.com/qzane/COMP633-kmeans-cuda/bl
 The test data with 500000 points in 10 classes is available at: https://github.com/qzane/COMP633-kmeans-cuda/releases
 
 # contact
-If you have any question, please email Qian(qzane [AT] unc.edu) or Siyuan(siyuanshan [AT] cs.unc.edu)
+If you have any question, please email Qian(qzane [AT] cs.unc.edu) or Siyuan(siyuanshan [AT] cs.unc.edu)
 
 
